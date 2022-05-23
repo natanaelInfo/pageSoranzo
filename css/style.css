@@ -141,7 +141,7 @@ header h2{
 }
 
 .menu ul li:hover{
-    background-color:tomato;
+    background-color:red;
 }
 
 /*data-menu="list"*/
